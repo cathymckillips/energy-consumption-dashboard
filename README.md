@@ -34,6 +34,13 @@ This Power BI dashboard includes four core visualizations designed to support st
 ## 📷 Screenshots
 ![Dashboard Screenshot](energy-consumption-dashboard.png)
 
+
+## 🎥 Video Demonstration
+
+Watch a brief walkthrough of the Energy Consumption Dashboard, highlighting key features and interactive capabilities.
+![Watch the Dashboard Demo](energy-consumption-dashboard-video.mp4)
+
+
 ## 📁 Files Included
 - `Energy Company Dashboard.pbix`: Main Power BI project file
 - `Sample_Energy_Company_PBI.xlsx`: Sample dataset
