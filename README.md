@@ -13,7 +13,7 @@ This Power BI dashboard includes four core visualizations designed to support st
 - **Revenue Analysis by Source** - Displays revenue performance by energy type, revealing key financial drivers and supporting pricing and investment strategies.
 - **CO₂ Emissions by Region** - Monitors emissions from non-renewable sources (e.g., Gas), offering insights for sustainability planning and ESG reporting.
 
-##🔧 Interactive Capabilities
+## 🖼️ Interactive Capabilities
 - **Slicers** for Region and Date Range allow customized views
 - **Drill-through filters** enable deeper regional performance analysis
 
